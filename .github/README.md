@@ -1,15 +1,15 @@
-<h1 align="center">𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓</h1>
+<h1 align="center">DANGEROUS MANAGER BOT</h1>
 <p align="center">
   <img
  <p a<lign="center">
-  <img src="https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg">
+  <img src="https://te.legra.ph/file/97194f7d7db73a66d1b4f.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━
 
 </p>
 <p align="center">
-<a href="https://github.com/itzshukla/STRANGER-ROBOT/stargazers"><img src="https://img.shields.io/github/stars/itzshukla/STRANGER-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/itzshukla/STRANGER-ROBOT/network/members"> <img src="https://img.shields.io/github/forks/itzshukla/STRANGER-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGERBOT/stargazers"><img src="https://img.shields.io/github/stars/MAHTO-ANJALI/PRISHUGROUPMANGERBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGERBOT/network/members"> <img src="https://img.shields.io/github/forks/MAHTO-ANJALI/STRANGER-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/itzshukla/STRANGER-ROBOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
@@ -21,7 +21,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 <h2 align="center">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ </h2>
 
-<h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/StrangerSuperbot">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʀᴏʙᴏᴛ</a>
+<h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/DANGEROUS_FIGHTER_GROUP">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʀᴏʙᴏᴛ</a>
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...</h4>
 ━━━━━━━━━━━━━━━━━━━━━━
 <h2 align="center"> 
@@ -38,7 +38,7 @@
 
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀</h2> 
 ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/XFLSWAN/SHIVANSH-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGERBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
 <h3> ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ? </h3>
 <h2> <a href="https://youtu.be/YT_nYVb0OxI"><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/YT_nYVb0OxI",width="500" height="70">
